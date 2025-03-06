@@ -4,4 +4,5 @@ O projeto foi criado com o intuito de apresentar o trio inicial de pokemon junta
 ## Principais linguagens que foram usadas na construção do site:
 - HTML
 - CSS
-  
+## Link para o site do projeto:
+https://trio-pokemon-inicial.netlify.app/
