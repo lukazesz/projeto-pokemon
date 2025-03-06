@@ -7,3 +7,5 @@
 - CSS
 ## Link para o site do projeto:
 https://trio-pokemon-inicial.netlify.app/
+## Considerações finais:
+- O projeto foi desenvolvido especificamente para uma apresentação em sala de aula na disciplina de Linguagem de Marcação, ministrada pelo professor Alex Cabral de Britto. A apresentação faz parte do curso de Tecnologias para Internet (TSI) do Instituto Federal da Paraíba (IFPB), campus Guarabira. Seu objetivo é demonstrar na prática os conceitos abordados em aula, proporcionando uma compreensão mais aprofundada e aplicada do conteúdo. 
