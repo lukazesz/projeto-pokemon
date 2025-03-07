@@ -18,5 +18,6 @@ https://trio-pokemon-inicial.netlify.app/
 - Arquivo charmander.html (pasta dedicada ao pokemon charmander);
 - Arquivo squirtle,html (pasta dedicada ao pokemon squirtle);
 - Pasta evoluções (contém as imagens dos pokemons usadas nos arquivos bulbasaur.html, charmander.html, e squirtle.html);
+- Arquivos de imagem usadas como fundos dos arquivos bulbasaur.html, charmander.html, e squirtle.html.
 ## Considerações finais:
 - O projeto foi desenvolvido especificamente para uma apresentação em sala de aula na disciplina de Linguagem de Marcação, ministrada pelo professor Alex Cabral de Britto. A apresentação faz parte do curso de Tecnologias para Internet (TSI) do Instituto Federal da Paraíba (IFPB), campus Guarabira. Seu objetivo é demonstrar na prática os conceitos abordados em aula, proporcionando uma compreensão mais aprofundada e aplicada do conteúdo. 
