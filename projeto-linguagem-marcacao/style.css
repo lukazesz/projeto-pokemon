@@ -70,6 +70,10 @@ h1 {
   /*Adiciona um espaço inferior*/
 }
 
+.paragrafo {
+  font-size: 20px;
+}
+
 .orizontal-lista {
   display: flex;
   /**/
@@ -90,12 +94,34 @@ h1 {
   /*Define a largura da lista em 72% do contêiner pai*/
 }
 
+table {
+  text-align: center;
+  border: 3px solid #9bb4d0;
+  /*Define a expessura da borda*/
+  border-radius: 15px;
+  /* Bordas arredondadas */
+  padding: 15px 20px;
+  background-color: #7caeb7;
+  /*Cor do fundo*/
+  border-spacing: 60px;
+  /* Define o espaçamento entre as células */
+  max-width: 840px;
+  /*Delimita o tamanho máximo que o elemento vai ocupar*/
+  width: 100%;
+  /*Define a largura da lista*/
+}
+
+.cabecalho {
+  font-size: 25px;
+}
+
 .pokemon-item1 {
   text-align: center;
   /*Adiciona um preenchimento interno*/
   background-color: rgb(78, 175, 78);
   /* Cor do balão */
   padding: 15px 20px;
+  padding-top: 30px;
   /*Adiciona um preenchimento interno*/
   border-radius: 25px;
   /* Bordas arredondadas */
@@ -109,6 +135,7 @@ h1 {
   text-align: center;
   background-color: #bc793e;
   padding: 15px 20px;
+  padding-right: 15px;
   border-radius: 25px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
   position: relative;
@@ -118,6 +145,7 @@ h1 {
   text-align: center;
   background-color: #4982c8;
   padding: 15px 20px;
+  padding-top: 25px;
   border-radius: 25px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
   position: relative;
