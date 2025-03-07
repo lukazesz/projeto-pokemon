@@ -1,4 +1,4 @@
-# Projeto-Pokemon
+# Projeto-Site-Pokemons-Iniciais
 ## Descrição do Projeto
 - O projeto foi criado com o intuito de apresentar o trio inicial de pokemon juntamente com as suas evoluções e principais características, as linguagens usadas no site foram apenas html e css.
 - O site é composto por quatro páginas principas. A primeira contendo os três pokemons (os quais o site irá focar) e uma breve descrição sobre os iniciais, ela contém os links para as outras três páginas onde cada uma é dedicada a um inicial destacado na página principal. E por fim ela contém um formulário onde solicita a pessoa que ela informe qual dos pokemons destacados ela escolheria para si. 
