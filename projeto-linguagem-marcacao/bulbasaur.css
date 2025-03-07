@@ -1,22 +1,60 @@
 body {
     background-image: url(fundo.webp);
-    
+    /*é usado para definir uma imagem de fundo em um elemento*/
     font-family: 'Times New Roman', Times, serif;
+    /*Estilo da fonte*/
     font-size: 12pt;
+    /*Tamanho da fonte dos textos*/
 }
 
 .header {
     text-align: center;
-    align-items: center;
+    /*Alinhamento do texto*/
+    align-items:center;
+    /*Adiciona um preenchimento interno*/
     background-color: rgb(202, 247, 191);
     padding: 15px 20px;
     border-radius: 20px;
+    /*Define um arredondamento das bordas*/
     box-shadow: 2px 2px 5px black;
+    /* cor em volta da borda */
     width: 700px;
+    /*Define uma largura fixa*/
     overflow-x: auto;
     height: auto;
-    display: block;
-    margin: auto;
+    /*define a altura do elemento*/
+    display:block;
+    /* o elemento ocupa toda a largura disponivel e começa em outra linha */
+    margin:auto;
+    /*centralizar elementos horizontalmente dentro de um container*/
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    text-shadow: 3px 3px 5px rgb(23, 175, 61);
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    text-shadow: 3px 3px 5px rgb(23, 175, 61);
+}
+
+p {
+    text-align: justify;
+    align-items: center;
+    text-indent: 1.25cm;
+   /* afastamento do inicio da linha*/
+    line-height: 1.5;
+    /*espaçamento entre as linhas */
+    margin: 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(black);
+    margin-bottom: 20px;
 }
 
 .pokemon1-info {
@@ -25,9 +63,12 @@ body {
     background-color: rgb(202, 247, 191);
     padding: 15px 20px;
     border-radius: 20px;
+    /*Define um arredondamento das bordas*/
     box-shadow: 2px 2px 5px black;
+    /*Aplica uma sombra leve*/
     width: 700px;
-    overflow-x: auto;
+    overflow-x:auto;
+    /*uma barra de rolagem sera adiocionada automaticamente se o conteudo for maior que a largura do elemento*/
     height: auto;
     display: block;
     margin: auto;
@@ -75,18 +116,6 @@ body {
     margin: auto;
 }
 
-p {
-    text-align: justify;
-    align-items: center;
-    text-indent: 1.25cm;
-    line-height: 1.5;
-    margin: 0;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(black);
-    margin-bottom: 20px;
-}
-
 .pokemon-container img {
     align-items: center;
     background-color: rgb(60, 188, 60);
@@ -100,22 +129,9 @@ p {
     margin: auto;
 }
 
-h1 {
-    text-align: center;
-    color: black;
-    font-size: 36px;
-    text-shadow: 3px 3px 5px rgb(23, 175, 61);
-}
-
-h3 {
-    text-align: center;
-    color: black;
-    font-size: 30px;
-    text-shadow: 3px 3px 5px rgb(23, 175, 61);
-}
 .pokemon1-info,
 .pokemon2-info,
 .pokemon3-info,
 .pokemon4-info {
-margin-top: 30px; /* Adiciona um espaçamento acima das demais boxes */
+margin-top: 30px; /* Adiciona um espaçamento acima das demais boxes */
 }
